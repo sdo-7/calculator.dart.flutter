@@ -1,4 +1,5 @@
 Replica of the ms calculator from here https://github.com/microsoft/calculator
+
 assets/CalculatorIcons.ttf from there
 
 Not completed.
